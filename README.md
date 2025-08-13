@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Shilenkovv)](https://leetcode.com/Shilenkovv)  
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Shilenkovv?theme=catppuccinMocha&font=Abel)](https://leetcode.com/Shilenkovv)  
 [![codewars](https://www.codewars.com/users/Shilenkovv/badges/large)](https://www.codewars.com/users/Shilenkovv) 
 <!--
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Shilenkovv&theme=dark)](https://github.com/Shilenkovvleetcode-stats)
