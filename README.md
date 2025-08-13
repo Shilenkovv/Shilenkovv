@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=shilenkovv)](https://github.com/shilenkovv/leetcode-stats)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Shilenkovv)](https://github.com/Shilenkovv/leetcode-stats)
 <!--
 **Shilenkovv/Shilenkovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
